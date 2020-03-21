@@ -1,0 +1,33 @@
+2020-03-19 10:05:32.348  INFO 8152 --- [restartedMain] c.c.p.PlugInSalesApplication             : Starting PlugInSalesApplication on NSU-20181030OKW with PID 8152 (D:\IDEAProgram\plug_in_sales\target\classes started by 张玉雷 in D:\IDEAProgram\plug_in_sales)
+2020-03-19 10:05:32.385  INFO 8152 --- [restartedMain] c.c.p.PlugInSalesApplication             : No active profile set, falling back to default profiles: default
+2020-03-19 10:05:33.643  INFO 8152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-19 10:05:33.644  INFO 8152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-19 10:05:44.944  INFO 8152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-19 10:05:45.214  INFO 8152 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-19 10:05:45.215  INFO 8152 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-19 10:05:45.657  INFO 8152 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-19 10:05:45.657  INFO 8152 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 11989 ms
+2020-03-19 10:05:47.481  INFO 8152 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-19 10:05:47.653  INFO 8152 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-19 10:05:49.703  INFO 8152 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-19 10:05:49.925  INFO 8152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-19 10:05:49.929  INFO 8152 --- [restartedMain] c.c.p.PlugInSalesApplication             : Started PlugInSalesApplication in 27.941 seconds (JVM running for 66.412)
+2020-03-19 10:21:42.988  INFO 8152 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-19 10:52:26.298  INFO 6380 --- [restartedMain] c.c.p.PlugInSalesApplication             : Starting PlugInSalesApplication on NSU-20181030OKW with PID 6380 (D:\IDEAProgram\plug_in_sales\target\classes started by 张玉雷 in D:\IDEAProgram\plug_in_sales)
+2020-03-19 10:52:26.337  INFO 6380 --- [restartedMain] c.c.p.PlugInSalesApplication             : No active profile set, falling back to default profiles: default
+2020-03-19 10:52:26.731  INFO 6380 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-19 10:52:26.732  INFO 6380 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-19 10:52:33.127  INFO 6380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-19 10:52:33.186  INFO 6380 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-19 10:52:33.186  INFO 6380 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-19 10:52:33.573  INFO 6380 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-19 10:52:33.573  INFO 6380 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 6841 ms
+2020-03-19 10:52:35.435  INFO 6380 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-19 10:52:35.767  INFO 6380 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-19 10:52:37.301  INFO 6380 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-19 10:52:37.464  INFO 6380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-19 10:52:37.468  INFO 6380 --- [restartedMain] c.c.p.PlugInSalesApplication             : Started PlugInSalesApplication in 15.777 seconds (JVM running for 41.636)
+2020-03-19 10:57:14.679  INFO 6380 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-19 10:57:14.680  INFO 6380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-19 10:57:14.773  INFO 6380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 93 ms
+2020-03-19 11:34:39.520  INFO 6380 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
