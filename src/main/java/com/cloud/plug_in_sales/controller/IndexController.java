@@ -25,10 +25,15 @@ public class IndexController {
 
     @RequestMapping("/")
     public String index(){
+        return "purchase";
+    }
+
+    @GetMapping("/")
+    public ModelAndView getSum(){
         ModelAndView modelAndView = new ModelAndView();
         int sum = indexService.getSum();
         modelAndView.addObject("sum",sum);
-        return "purchase";
+        return modelAndView;
     }
 
     @GetMapping("/purchaseSuccess")

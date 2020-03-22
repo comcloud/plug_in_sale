@@ -11,8 +11,16 @@
     <script src="/js/bootstrap.min.js"></script>
     <script type="application/javascript">
         $(function () {
-            var error = $(error);
-            $('#error').text(error);
+            showSum();
+            showError();
+            function showSum() {
+                var sum = [[${sum}]];
+                $('#sumid').text(sum);
+            }
+            function showError() {
+                var error = [[${error}]];
+                $('#error').text(error);
+            }
         })
     </script>
 </head>
@@ -40,7 +48,7 @@
                             style=" color: #AA2222;"
                             class="trade-price">¥ 290.00</span>
                     </li>
-                    <li class="list-group-item"><span style="font-size: large">购买数量 :</span>
+                    <li class="list-group-item"><span style="font-size: large">购买数量 :(库存<span id="sumid"></span>件)</span>
                         <input type="text" name="count" id="count" value=""
                                placeholder="请输入购买数量" class="form-control"
                                aria-label="Sizing example input" pattern="-?[1-9]\d*" title="仅限数字"

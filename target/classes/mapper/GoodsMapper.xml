@@ -14,6 +14,9 @@
   <select id="getPwdByCount" parameterType="java.lang.Integer" resultType="java.lang.String">
         select pwd from goods where status != 0 limit #{count}
   </select>
+  <select id="getSum" resultType="java.lang.Integer">
+        select count(*) from goods where status != 0
+  </select>
   <update id="updateStatusByPwd" parameterType="java.lang.String">
         update goods set status = 0 where pwd=#{pwd}
   </update>
