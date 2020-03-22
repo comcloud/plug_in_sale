@@ -6,5 +6,5 @@ create table user(
     --用户购买数量
     ucount int,
     --用户购买时间
-    utime date
+    utime datetime
 )

@@ -17,6 +17,9 @@
   <update id="updateStatusByPwd" parameterType="java.lang.String">
         update goods set status = 0 where pwd=#{pwd}
   </update>
+  <insert id="saveUser" parameterType="com.cloud.plug_in_sales.model.User">
+        insert into user values (#{user.uid},#{user.qqNumber},#{user.ucount},#{user.utime})
+  </insert>
   <sql id="Example_Where_Clause">
     <!--
       WARNING - @mbg.generated

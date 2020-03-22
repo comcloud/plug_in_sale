@@ -429,469 +429,13 @@
       <change afterPath="$PROJECT_DIR$/../generatorsystem/src/main/resources/db/database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../generatorsystem/src/main/resources/static/js/jquery-3.4.1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../generatorsystem/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/EmailAuthenticator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1_Create_goods_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lib/mail.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/app.ad52b47a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-00feb227.84211a72.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-09a78eda.0e33e21a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-0cc826ee.d94071d6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-1922a40e.f4349937.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-1e303e8c.46a67c57.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-2cf7efe4.0e33e21a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-36ac1a23.0becaf8c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-59456d4e.afea7f86.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-afda5a22.041fa426.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-f1c576e6.b38ba436.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/chunk-vendors.70dcf28e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/community.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/editormd.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/editormd.preview.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/fail.809a6bc5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/new_file.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/editormd-logo.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/editormd-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/editormd-logo.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/editormd-logo.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/hot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/loading@2x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/loading@3x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-favicon-16x16.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-favicon-24x24.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-favicon-32x32.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-favicon-48x48.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-favicon-64x64.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-240x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-24x24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-320x320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-64x64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/editormd-logo-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logos/vi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.e29a566a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-00feb227.9a8da69e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-09a78eda.cc69abe1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-0ba750a2.1fe7a063.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-0cc826ee.944fd5f4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-13882457.c82a4d82.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-1922a40e.c260b56d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-1e303e8c.13b99962.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2cf7efe4.01e2d029.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d0b383e.d5e906d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d0b64bf.dc1f06bd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d0b8b03.44d2af44.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d0cf13d.49fc8c5f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d21a35c.82f5da19.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d228c74.931307e8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-2d228d13.c03e48e4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-36ac1a23.907bf32d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-37a26d88.20c02945.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-59456d4e.0c1f28f5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-664d53d7.69874f43.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-6709ac89.81fe9f80.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-78dfb9ad.08dc84c7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-7f061eff.9efbb5ce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-afda5a22.14d03c3c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-b0eebb32.58f570c3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-f1c576e6.a11c537b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.8dff577d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/community.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/editormd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/fail.244fe78b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/comment/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/comment/continuecomment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/dialog/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/dialog/dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/display/fullscreen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/display/fullscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/display/panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/display/placeholder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/display/rulers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/closebrackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/closetag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/continuelist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/matchbrackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/matchtags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/edit/trailingspace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/brace-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/comment-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/foldcode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/foldgutter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/foldgutter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/indent-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/markdown-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/fold/xml-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/anyword-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/css-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/html-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/javascript-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/show-hint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/show-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/sql-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/hint/xml-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/coffeescript-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/css-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/javascript-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/json-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/lint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/lint/yaml-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/merge/merge.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/merge/merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/mode/loadmode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/mode/multiplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/mode/multiplex_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/mode/overlay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/mode/simple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/runmode/colorize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/runmode/runmode-standalone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/runmode/runmode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/runmode/runmode.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/scroll/annotatescrollbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/scroll/scrollpastend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/scroll/simplescrollbars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/scroll/simplescrollbars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/search/match-highlighter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/search/matchesonscrollbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/search/matchesonscrollbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/search/searchcursor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/selection/active-line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/selection/mark-selection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/selection/selection-pointer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/tern/tern.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/tern/tern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/tern/worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addon/wrap/hardwrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/addons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/codemirror.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/lib/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/lib/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/apl/apl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/apl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/asterisk/asterisk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/asterisk/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/clike/clike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/clike/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/clike/scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/clojure/clojure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/clojure/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/cobol/cobol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/cobol/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/coffeescript/coffeescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/coffeescript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/commonlisp/commonlisp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/commonlisp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/less_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/scss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/scss_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/css/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/cypher/cypher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/cypher/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/d/d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/d/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dart/dart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/diff/diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/diff/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/django/django.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/django/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dockerfile/dockerfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dockerfile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dtd/dtd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dtd/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dylan/dylan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/dylan/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ebnf/ebnf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ebnf/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ecl/ecl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ecl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/eiffel/eiffel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/eiffel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/erlang/erlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/erlang/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/forth/forth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/forth/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/fortran/fortran.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/fortran/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gas/gas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gfm/gfm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gfm/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gfm/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gherkin/gherkin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/gherkin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/go/go.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/go/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/groovy/groovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/groovy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haml/haml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haml/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haskell/haskell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haskell/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haxe/haxe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/haxe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/htmlembedded/htmlembedded.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/htmlembedded/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/htmlmixed/htmlmixed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/htmlmixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/http/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/http/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/idl/idl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/idl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/jade/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/jade/jade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/javascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/javascript/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/javascript/json-ld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/javascript/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/javascript/typescript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/jinja2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/jinja2/jinja2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/julia/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/julia/julia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/kotlin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/kotlin/kotlin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/livescript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/livescript/livescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/lua/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/lua/lua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/markdown/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/markdown/markdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/markdown/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/mirc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/mirc/mirc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/mllike/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/mllike/mllike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/modelica/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/modelica/modelica.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/nginx/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/nginx/nginx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ntriples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ntriples/ntriples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/octave/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/octave/octave.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pascal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pascal/pascal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pegjs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pegjs/pegjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/perl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/perl/perl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/php/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/php/php.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/php/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pig/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/pig/pig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/properties/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/properties/properties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/puppet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/puppet/puppet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/python/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/python/python.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/q/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/q/q.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/r/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/r/r.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rpm/changes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rpm/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rpm/rpm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rst/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rst/rst.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ruby/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ruby/ruby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/ruby/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rust/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/rust/rust.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sass/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sass/sass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/scheme/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/scheme/scheme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/shell/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/shell/shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/shell/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sieve/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sieve/sieve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/slim/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/slim/slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/slim/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smalltalk/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smalltalk/smalltalk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smarty/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smarty/smarty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smartymixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/smartymixed/smartymixed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/solr/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/solr/solr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/soy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/soy/soy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sparql/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sparql/sparql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/spreadsheet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/spreadsheet/spreadsheet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sql/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/sql/sql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/stex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/stex/stex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/stex/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/stylus/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/stylus/stylus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tcl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tcl/tcl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/textile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/textile/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/textile/textile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiddlywiki/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiddlywiki/tiddlywiki.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiddlywiki/tiddlywiki.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiki/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiki/tiki.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tiki/tiki.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/toml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/toml/toml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tornado/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/tornado/tornado.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/turtle/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/turtle/turtle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/vb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/vb/vb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/vbscript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/vbscript/vbscript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/velocity/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/velocity/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/verilog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/verilog/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/verilog/verilog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xml/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xml/xml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xquery/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xquery/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/xquery/xquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/yaml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/yaml/yaml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/z80/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/mode/z80/z80.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/modes.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/3024-day.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/3024-night.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/ambiance-mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/ambiance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/base16-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/base16-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/blackboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/cobalt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/colorforth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/eclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/elegant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/erlang-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/lesser-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/mbo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/mdn-like.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/midnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/monokai.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/neo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/night.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/paraiso-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/paraiso-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/pastel-on-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/rubyblue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/solarized.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/the-matrix.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/tomorrow-night-bright.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/tomorrow-night-eighties.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/twilight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/vibrant-ink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/xq-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/xq-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/codemirror/theme/zenburn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/flowchart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/jquery.flowchart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/marked.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/prettify.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/raphael.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/sequence-diagram.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/lib/underscore.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/new_file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/code-block-dialog/code-block-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/emoji-dialog/emoji-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/emoji-dialog/emoji.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/goto-line-dialog/goto-line-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/help-dialog/help-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/html-entities-dialog/html-entities-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/html-entities-dialog/html-entities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/image-dialog/image-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/link-dialog/link-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/plugin-template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/preformatted-text-dialog/preformatted-text-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/reference-link-dialog/reference-link-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/table-dialog/table-dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/test-plugin/test-plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/purchase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/showQrCode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/vcs.xml" afterDir="false" />
       <change beforePath="D:/C#程序/TestPaperGenerationSystem" beforeDir="false" afterPath="D:/C#程序/TestPaperGenerationSystem" afterDir="false" />
@@ -1097,6 +641,28 @@
       <change beforePath="$PROJECT_DIR$/../book_store/target/classes/com/cloud/book_store/BookStoreApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_store/target/classes/com/cloud/book_store/ServletInitializer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_store/target/test-classes/com/cloud/book_store/BookStoreApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sale.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sale.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sale.log.2020-03-14.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plug_in_sales.iml" beforeDir="false" afterPath="$PROJECT_DIR$/plug_in_sales.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lib/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/purchase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lib/javax.mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lib/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/purchase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.cloud.plug_in_sales.PlugInSalesApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.cloud.plug_in_sales.PlugInSalesApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.cloud.plug_in_sales.PlugInSalesApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.cloud.plug_in_sales.PlugInSalesApplicationTests.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloudprojcet/microservicecloud/.idea/workspace.xml" afterDir="false" />
@@ -1296,12 +862,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1310,32 +898,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/purchase.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -1343,7 +907,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="189">
               <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
             </state>
           </provider>
@@ -1356,8 +920,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -1385,7 +949,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1397,7 +961,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/Constant.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/success.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/QueryOrderPayUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/WeChatPayController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/QrCodUtil.java" />
@@ -1423,17 +986,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/EmailAuthenticator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/Mail.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/MailUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MD5Util.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/PlugInSalesApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/purchase.html" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/purchase.html" />
       </list>
     </option>
   </component>
@@ -1448,6 +1013,27 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="plug_in_sales" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="plug_in_sales" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="plug_in_sales" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="683" />
@@ -1594,6 +1180,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1603,10 +1206,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -1621,6 +1220,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/lib" />
@@ -1632,15 +1232,15 @@
     <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\lib" />
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\common" />
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\util" />
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources" />
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1723,6 +1323,8 @@
       <workItem from="1584535595200" duration="1872000" />
       <workItem from="1584573783257" duration="4178000" />
       <workItem from="1584749659628" duration="477000" />
+      <workItem from="1584796052766" duration="3238000" />
+      <workItem from="1584835767380" duration="10858000" />
     </task>
     <servers />
   </component>
@@ -1735,13 +1337,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96241000" />
+    <option name="totallyTimeSpent" value="110337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3161876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3290469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1758,7 +1359,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32923076" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.46461537" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.3353846" />
       <window_info anchor="bottom" id="Docker" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.52" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
@@ -1768,7 +1369,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
@@ -1783,13 +1384,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mvnw" />
-    <entry file="file://$PROJECT_DIR$/HELP.md" />
-    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1260" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plug_in_sales.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1829,13 +1423,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/Constant.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1915,21 +1502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2060">
-          <caret line="138" column="7" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1947,23 +1519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1974,46 +1529,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="340">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar!/com/sun/mail/util/ASCIIUtility.class" />
+    <entry file="jar://$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar!/javax/mail/Message.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.0.0/core-3.0.0.jar!/com/google/zxing/Reader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.0.0/core-3.0.0.jar!/com/google/zxing/Writer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="30" column="96" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="96" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="160">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/purchase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+        <state relative-caret-position="180">
+          <caret line="45" column="84" lean-forward="true" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#745#751#1" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
           </folding>
         </state>
       </provider>

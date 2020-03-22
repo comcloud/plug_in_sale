@@ -4,6 +4,7 @@ import com.cloud.plug_in_sales.model.Goods;
 import com.cloud.plug_in_sales.model.GoodsExample;
 import java.util.List;
 
+import com.cloud.plug_in_sales.model.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.session.RowBounds;
@@ -14,6 +15,14 @@ import org.apache.ibatis.session.RowBounds;
 @Mapper
 public interface GoodsMapper {
 
+    /**
+     * @return 获取可用的密钥数量
+     */
+    int getSum();
+    /**
+     * @param user 保存用户
+     */
+    void saveUser(@Param("user") User user);
     /**
      * @param count 密钥数量
      * @return 指定符合要求的密钥值
@@ -121,4 +130,5 @@ public interface GoodsMapper {
      * @mbg.generated Sun Mar 15 10:21:59 CST 2020
      */
     int updateByPrimaryKey(Goods record);
+
 }

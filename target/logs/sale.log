@@ -1,0 +1,15 @@
+2020-03-22 08:32:16.821  INFO 11120 --- [main] c.c.p.PlugInSalesApplication             : Starting PlugInSalesApplication v0.0.1-SNAPSHOT on NSU-20181030OKW with PID 11120 (D:\IDEAProgram\plug_in_sales\target\plug_in_sales-0.0.1-SNAPSHOT.jar started by ’≈”Ò¿◊ in D:\IDEAProgram\plug_in_sales\target)
+2020-03-22 08:32:16.865  INFO 11120 --- [main] c.c.p.PlugInSalesApplication             : No active profile set, falling back to default profiles: default
+2020-03-22 08:32:23.503  INFO 11120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-22 08:32:23.586  INFO 11120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-22 08:32:23.587  INFO 11120 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-22 08:32:24.814  INFO 11120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-22 08:32:24.819  INFO 11120 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 7532 ms
+2020-03-22 08:32:27.415  INFO 11120 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-22 08:32:27.686  INFO 11120 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-22 08:32:28.745  INFO 11120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-22 08:32:29.086  INFO 11120 --- [main] c.c.p.PlugInSalesApplication             : Started PlugInSalesApplication in 18.03 seconds (JVM running for 30.023)
+2020-03-22 08:34:29.708  INFO 11120 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-22 08:34:29.709  INFO 11120 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-22 08:34:29.830  INFO 11120 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 117 ms
+2020-03-22 08:36:04.146  INFO 11120 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
