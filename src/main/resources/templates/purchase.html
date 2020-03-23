@@ -11,7 +11,7 @@
     <script src="/js/bootstrap.min.js"></script>
     <script type="application/javascript">
         $(function () {
-            var error = $(error);
+            var error = '<%=error %>';
             $('#error').text(error);
         })
     </script>
@@ -23,7 +23,8 @@
             <span>&ensp;</span>
         </div>
         <div class="card-body">
-            <p class="card-text" style="font-size: large">欢迎购买，出售的产品为虚拟数字产品， 一旦售出不给与退换！，如有问题请联系客服 3341459510</p>
+            <p class="card-text" style="font-size: large">欢迎购买，出售的产品为虚拟数字产品， 一旦售出不给与退换！如有问题请联系客服 3341459510</p>
+            <p class="card-text" style="font-size: large">扫码完成后请点击确认支付按钮</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
         <div class="card-footer text-muted">
@@ -43,7 +44,7 @@
                     <li class="list-group-item"><span style="font-size: large">购买数量 :</span>
                         <input type="text" name="count" id="count" value=""
                                placeholder="请输入购买数量" class="form-control"
-                               aria-label="Sizing example input" pattern="-?[1-9]\d*" title="仅限数字"
+                               aria-label="Sizing example input" pattern="[1-9]" title="一次购买数量仅限在1-9之间"
                                aria-describedby="inputGroup-sizing-sm"/>
                     </li>
                     <li class="list-group-item"><span
@@ -59,7 +60,7 @@
                         <img src="/images/logos/editormd-logo-144x144.png"/>
                     </li>
                 </ul>
-                <input class="btn btn-primary" type="submit" value="确认购买"/>
+                <input class="btn btn-primary" type="submit" value="确认支付"/>
             </form>
         </div>
 
