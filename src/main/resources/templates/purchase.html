@@ -9,6 +9,23 @@
     <link rel="stylesheet" type="text/css" href="/css/style.css"/>
     <script src="/js/jquery/2.1.1/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+<<<<<<< HEAD
+=======
+    <script type="application/javascript">
+        $(function () {
+            showSum();
+            showError();
+            function showSum() {
+                var sum = [[${sum}]];
+                $('#sumid').text(sum);
+            }
+            function showError() {
+                var error = [[${error}]];
+                $('#error').text(error);
+            }
+        })
+    </script>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
 </head>
 <body>
 <div style="margin-right:auto;margin-left: auto ">
@@ -36,7 +53,11 @@
                             style=" color: #AA2222;"
                             class="trade-price">¥ 148.00</span>
                     </li>
+<<<<<<< HEAD
                     <li class="list-group-item"><span style="font-size: large">购买数量 : (当前库存<span id="stock" th:text="${stock}">10</span>个)</span>
+=======
+                    <li class="list-group-item"><span style="font-size: large">购买数量 :(库存<span id="sumid"></span>件)</span>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
                         <input type="text" name="count" id="count" value=""
                                placeholder="请输入购买数量" class="form-control"
                                aria-label="Sizing example input" pattern="[1-9]" title="一次购买数量仅限在1-9之间"

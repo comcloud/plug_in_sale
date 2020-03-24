@@ -14,12 +14,18 @@
   <select id="getPwdByCount" parameterType="java.lang.Integer" resultType="java.lang.String">
         select pwd from goods where status != 0 limit #{count}
   </select>
+<<<<<<< HEAD
   <select id="getStock" resultType="java.lang.Integer">
         select count(*) from goods where status != 0
   </select>
   <select id="selectUserByQQ" parameterType="com.cloud.plug_in_sales.model.User" resultType="com.cloud.plug_in_sales.model.User">
         select * from user where qqNumber = #{user.qqNumber}
   </select>
+=======
+  <select id="getSum" resultType="java.lang.Integer">
+        select count(*) from goods where status != 0
+  </select>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
   <update id="updateStatusByPwd" parameterType="java.lang.String">
         update goods set status = 0 where pwd=#{pwd}
   </update>

@@ -31,10 +31,23 @@ public class IndexController {
      * @return 支付首页
      */
     @RequestMapping("/")
+<<<<<<< HEAD
     public String index(Model model) {
         int stock = indexService.getStock();
         model.addAttribute("stock", stock);
         return "purchase";
+=======
+    public String index(){
+        return "purchase";
+    }
+
+    @GetMapping("/")
+    public ModelAndView getSum(){
+        ModelAndView modelAndView = new ModelAndView();
+        int sum = indexService.getSum();
+        modelAndView.addObject("sum",sum);
+        return modelAndView;
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
     }
 
     /**

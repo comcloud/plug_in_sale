@@ -4,6 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="43b103e2-61bb-4eec-bfc5-8ab741fe4db5" name="Default Changelist" comment="four commit">
       <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V3_Alter_user_table.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/alipay.png" afterDir="false" />
@@ -49,10 +50,22 @@
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/success.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cloud/plug_in_sales/PlugInSalesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cloud/plug_in_sales/PlugInSalesApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+=======
+    <list default="true" id="43b103e2-61bb-4eec-bfc5-8ab741fe4db5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sale.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sale.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/purchase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/plug_in_sales.kotlin_module" beforeDir="false" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <change beforePath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/controller/IndexController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/mapper/GoodsMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/service/IndexService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/service/IndexService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.class" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V2_Create_user_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V2_Create_user_table.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/static/images/default-avatar.png" beforeDir="false" />
@@ -82,6 +95,10 @@
       <change beforePath="$PROJECT_DIR$/target/classes/static/images/logos/vi.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/purchase.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/success.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/purchase.html" afterDir="false" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,15 +128,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/purchase.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+            <state relative-caret-position="134">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="231">
+              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+=======
+            <state relative-caret-position="150">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
@@ -127,20 +163,39 @@
               <folding>
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cloud/plug_in_sales/PlugInSalesApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1_Create_goods_table.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/PlugInSalesApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -150,11 +205,27 @@
                 <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#356#357#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/purchase.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
@@ -170,13 +241,37 @@
                 <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="96" column="35" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/alipay.png">
           <provider selected="true" editor-type-id="images" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
         </entry>
       </file>
     </leaf>
@@ -186,8 +281,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -212,6 +307,7 @@
       <find>final</find>
       <find>username</find>
       <find>Mark</find>
+<<<<<<< HEAD
       <find>thymeleaf</find>
       <find>th</find>
       <find>seesion</find>
@@ -220,6 +316,9 @@
       <find>ModelAndView</find>
       <find>addObject</find>
       <find>生成二维码成功</find>
+=======
+      <find>lom</find>
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -258,7 +357,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/EmailAuthenticator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/Mail.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MD5Util.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/PlugInSalesApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java" />
@@ -274,6 +375,18 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/purchase.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cloud/plug_in_sales/PlugInSalesApplicationTests.java" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/PlugInSalesApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/purchase.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       </list>
     </option>
   </component>
@@ -311,7 +424,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="683" />
+    <option name="width" value="684" />
     <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -319,96 +432,79 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -422,16 +518,21 @@
             <path>
               <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -441,10 +542,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
             </path>
             <path>
-              <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -452,15 +556,27 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="plug_in_sales" type="b2602c69:ProjectViewProjectNode" />
               <item name="plug_in_sales" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="plug_in_sale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plug_in_sale" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,7 +594,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -490,6 +606,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\static\img" />
+      <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProgram\plug_in_sales\src\main\resources\static" />
     </key>
   </component>
@@ -573,9 +692,13 @@
       <workItem from="1584535595200" duration="1872000" />
       <workItem from="1584573783257" duration="4178000" />
       <workItem from="1584749659628" duration="477000" />
+<<<<<<< HEAD
       <workItem from="1584796052766" duration="3238000" />
       <workItem from="1584835767380" duration="10858000" />
       <workItem from="1585000577191" duration="17296000" />
+=======
+      <workItem from="1584850483092" duration="2803000" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
     </task>
     <servers />
   </component>
@@ -588,12 +711,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="129034000" />
+=======
+    <option name="totallyTimeSpent" value="100414000" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -605,15 +736,20 @@
       <window_info anchor="bottom" id="Inspection Results" weight="0.32923076" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.42307693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.42288557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32923076" />
       <window_info anchor="bottom" id="Spring" order="8" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" visible="true" weight="0.42615384" />
       <window_info anchor="bottom" id="Docker" order="10" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.46461537" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.52" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
@@ -622,7 +758,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
@@ -681,8 +817,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="four commit" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/config/WechatAccountConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/EmailAuthenticator.java">
+=======
+    <entry file="file://$PROJECT_DIR$/mvnw" />
+    <entry file="file://$PROJECT_DIR$/HELP.md" />
+    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plug_in_sales.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
@@ -709,6 +859,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar!/com/sun/mail/util/ASCIIUtility.class" />
     <entry file="jar://$PROJECT_DIR$/src/main/resources/lib/javax.mail.jar!/javax/mail/Message.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.0.0/core-3.0.0.jar!/com/google/zxing/Reader.class">
@@ -719,6 +870,9 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.0.0/core-3.0.0.jar!/com/google/zxing/Writer.class">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -735,6 +889,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../blog/target/classes/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -753,6 +908,19 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/config/MyConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/QueryOrderPayUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../travel/src/main/webapp/register.html" />
+    <entry file="file://$PROJECT_DIR$/../blog/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/ConfigUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/QrCodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/model/config/WXPayConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/ScanPayReqData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/common/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/WeChatPayController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/showQrCode.html">
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="109" selection-start-line="109" selection-end-line="109" />
@@ -852,6 +1020,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.31/tomcat-embed-core-9.0.31.jar!/javax/servlet/ServletException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -859,6 +1028,12 @@
           <folding>
             <element signature="e#617#618#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/IndexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
         </state>
       </provider>
     </entry>
@@ -872,6 +1047,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.31/tomcat-embed-core-9.0.31.jar!/org/apache/catalina/core/StandardHostValve.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -925,6 +1101,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/util/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blog/src/main/resources/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/service/impl/IndexServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="96" column="35" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="35" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
         </state>
       </provider>
     </entry>
@@ -937,6 +1161,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/mapper/GoodsMapper.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="165">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
@@ -960,10 +1185,32 @@
             <element signature="imports" expanded="true" />
             <element signature="e#953#954#0" expanded="true" />
             <element signature="e#998#999#0" expanded="true" />
+=======
+        <state relative-caret-position="128">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/purchase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/plug_in_sales/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -1034,6 +1281,29 @@
             <element signature="e#283#284#0" expanded="true" />
             <element signature="e#356#357#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1_Create_goods_table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2_Create_user_table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="3" />
+>>>>>>> 91039f7622718f570394c1607b7a8defacbec5bb
         </state>
       </provider>
     </entry>
