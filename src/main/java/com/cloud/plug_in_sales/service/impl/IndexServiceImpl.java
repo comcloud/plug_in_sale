@@ -3,7 +3,6 @@ package com.cloud.plug_in_sales.service.impl;
 import com.cloud.plug_in_sales.mapper.GoodsMapper;
 import com.cloud.plug_in_sales.model.User;
 import com.cloud.plug_in_sales.service.IndexService;
-import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -31,12 +30,17 @@ public class IndexServiceImpl implements IndexService {
 
     @Override
     public void saveUser(User user) {
-        goodsMapper.saveUser(user);
+        User oldUser = goodsMapper.selectUserByQQ(user);
+        if (oldUser == null) {
+            goodsMapper.saveUser(user);
+        } else {
+            goodsMapper.updateUser(user,oldUser);
+        }
     }
 
     @Override
-    public int getSum() {
-        return goodsMapper.getSum();
+    public int getStock() {
+        return goodsMapper.getStock();
     }
 
 

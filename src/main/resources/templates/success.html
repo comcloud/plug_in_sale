@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+    <link rel="icon" href="/images/logo.png">
     <script src="/js/jquery/2.1.1/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <title>支付成功</title>
@@ -15,10 +17,10 @@
             <h3 class="panel-title">购买</h3>
         </div>
         <ul>
-            <li class="list-group-item"><span style="font-size: large">购买数量 :</span>
+            <li class="list-group-item"><span style="font-size: large">购买数量 : (当前库存<span id="stock" th:text="${stock}">10</span>个)</span>
                 <input type="text" name="count" id="count" value=""
                        placeholder="请输入购买数量" class="form-control"
-                       aria-label="Sizing example input" pattern="-?[1-9]\d*" title="仅限数字"
+                       aria-label="Sizing example input" pattern="[1-9]" title="一次购买数量仅限在1-9之间"
                        aria-describedby="inputGroup-sizing-sm"/>
             </li>
             <li class="list-group-item"><span
@@ -35,6 +37,7 @@
         <p class="lead">点击后将密钥发送至邮箱</p>
         <hr class="my-4">
         <input class="btn btn-primary" type="submit" value="发送密钥"/>
+        <p class="lead" id="sendMessage" th:text="${sendMessage}"></p>
     </div>
 </form>
 </body>

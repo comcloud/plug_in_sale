@@ -11,6 +11,8 @@ spring:
       max-request-size: 20MB
   thymeleaf:
     cache: false
+    encoding: UTF-8
+    mode: HTML5
 #mybatis配置
 mybatis:
   configuration:

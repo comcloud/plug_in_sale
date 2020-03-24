@@ -14,14 +14,20 @@
   <select id="getPwdByCount" parameterType="java.lang.Integer" resultType="java.lang.String">
         select pwd from goods where status != 0 limit #{count}
   </select>
-  <select id="getSum" resultType="java.lang.Integer">
+  <select id="getStock" resultType="java.lang.Integer">
         select count(*) from goods where status != 0
+  </select>
+  <select id="selectUserByQQ" parameterType="com.cloud.plug_in_sales.model.User" resultType="com.cloud.plug_in_sales.model.User">
+        select * from user where qqNumber = #{user.qqNumber}
   </select>
   <update id="updateStatusByPwd" parameterType="java.lang.String">
         update goods set status = 0 where pwd=#{pwd}
   </update>
+  <update id="updateUser" parameterType="com.cloud.plug_in_sales.model.User">
+        update user set ucount = #{oldUser.ucount} + #{newUser.ucount} where qqNumber = #{oldUser.qqNumber}
+  </update>
   <insert id="saveUser" parameterType="com.cloud.plug_in_sales.model.User">
-        insert into user values (#{user.uid},#{user.qqNumber},#{user.ucount},#{user.utime})
+        insert into user(qqNumber,ucount,utime) values (#{user.qqNumber},#{user.ucount},#{user.utime})
   </insert>
   <sql id="Example_Where_Clause">
     <!--

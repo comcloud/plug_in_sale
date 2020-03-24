@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.cloud.plug_in_sales.PlugInSalesApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.532 s - in com.cloud.plug_in_sales.PlugInSalesApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.595 s - in com.cloud.plug_in_sales.PlugInSalesApplicationTests

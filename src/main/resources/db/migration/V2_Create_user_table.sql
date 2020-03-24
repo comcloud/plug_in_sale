@@ -1,6 +1,6 @@
 create table user(
     --用户id
-    uid int primary key not null ,
+    uid int primary key not null,
     --用户qq号
     qqNumber varchar(20),
     --用户购买数量
@@ -8,7 +8,7 @@ create table user(
     --用户购买时间
     utime datetime
 )
-
+--循环插入数据
 DELIMITER $$
 CREATE PROCEDURE pre()
 BEGIN

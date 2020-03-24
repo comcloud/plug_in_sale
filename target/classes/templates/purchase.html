@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
 
 <head>
     <meta charset="UTF-8">
@@ -9,12 +9,6 @@
     <link rel="stylesheet" type="text/css" href="/css/style.css"/>
     <script src="/js/jquery/2.1.1/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script type="application/javascript">
-        $(function () {
-            var error = $(error);
-            $('#error').text(error);
-        })
-    </script>
 </head>
 <body>
 <div style="margin-right:auto;margin-left: auto ">
@@ -23,7 +17,9 @@
             <span>&ensp;</span>
         </div>
         <div class="card-body">
-            <p class="card-text" style="font-size: large">欢迎购买，出售的产品为虚拟数字产品， 一旦售出不给与退换！，如有问题请联系客服 3341459510</p>
+<!--            <span th:text="${seesion.test}"></span>-->
+            <p class="card-text" style="font-size: large">欢迎购买，出售的产品为虚拟数字产品， 一旦售出不给与退换！如有问题请联系客服 3341459510</p>
+            <p class="card-text" style="font-size: large">扫码完成后请点击确认支付按钮</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
         <div class="card-footer text-muted">
@@ -38,12 +34,12 @@
                 <ul class="list-group">
                     <li class="list-group-item"><span class="glyphicon glyphicon-usd"></span> 价格：<span
                             style=" color: #AA2222;"
-                            class="trade-price">¥ 290.00</span>
+                            class="trade-price">¥ 148.00</span>
                     </li>
-                    <li class="list-group-item"><span style="font-size: large">购买数量 :</span>
+                    <li class="list-group-item"><span style="font-size: large">购买数量 : (当前库存<span id="stock" th:text="${stock}">10</span>个)</span>
                         <input type="text" name="count" id="count" value=""
                                placeholder="请输入购买数量" class="form-control"
-                               aria-label="Sizing example input" pattern="-?[1-9]\d*" title="仅限数字"
+                               aria-label="Sizing example input" pattern="[1-9]" title="一次购买数量仅限在1-9之间"
                                aria-describedby="inputGroup-sizing-sm"/>
                     </li>
                     <li class="list-group-item"><span
@@ -53,13 +49,13 @@
                                aria-label="Sizing example input" pattern="[1-9][0-9]{4,14}" title="请输入合法的qq号码"
                                aria-describedby="inputGroup-sizing-sm"/>
                     </li>
-                    <span id="error"></span>
-                    <li class="list-group-item">支付二维码：
-                        <img src="/images/default-avatar.png"/>
-                        <img src="/images/logos/editormd-logo-144x144.png"/>
+                    <span id="error" th:text="${error}"></span>
+                    <li class="list-group-item"><span style="font-size: large">支付二维码：</span>
+                        <img src="/img/alipay.png" th:width="200px" th:height="200px"/>
+                        <img src="/img/wechat.png" th:width="200px" th:height="200px"/>
                     </li>
                 </ul>
-                <input class="btn btn-primary" type="submit" value="确认购买"/>
+                <input class="btn btn-primary" type="submit" value="确认支付"/>
             </form>
         </div>
 

@@ -8,17 +8,24 @@ import com.cloud.plug_in_sales.model.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.session.RowBounds;
+import org.springframework.web.bind.annotation.PathVariable;
 
 /**
  * @author 张玉雷
  */
 @Mapper
 public interface GoodsMapper {
+    /**
+     * @param newUser 当前传过来的用户
+     * @param oldUser 数据库已经存在的用户
+     */
+    void updateUser(@Param("newUser") User newUser, @Param("oldUser") User oldUser);
 
+    User selectUserByQQ(@Param("user") User user);
     /**
      * @return 获取可用的密钥数量
      */
-    int getSum();
+    int getStock();
     /**
      * @param user 保存用户
      */

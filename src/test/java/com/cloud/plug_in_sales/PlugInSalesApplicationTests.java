@@ -24,15 +24,8 @@ PlugInSalesApplicationTests {
 
     @Test
     void contextLoads() throws WriterException, IOException {
-
-
-
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("company","www.cloud.com");
-        jsonObject.put("companyName","云端三七");
-        jsonObject.put("author","张玉雷");
-        jsonObject.put("wife","戚士树");
-        jsonObject.put("home","河南和安徽");
+        jsonObject.put("home","中国");
         String content = jsonObject.toString();
 
         //定义二维码的宽和高

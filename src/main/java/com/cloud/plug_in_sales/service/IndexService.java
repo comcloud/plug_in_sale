@@ -21,5 +21,5 @@ public interface IndexService {
     /**
      * @return 获取数据中可以用的密钥数量
      */
-    int getSum();
+    int getStock();
 }

@@ -2,6 +2,7 @@ D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\model\GoodsEx
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\service\impl\IndexServiceImpl.java
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\model\EmailAuthenticator.java
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\PlugInSalesApplication.java
+D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\model\User.java
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\controller\IndexController.java
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\mapper\GoodsMapper.java
 D:\IDEAProgram\plug_in_sales\src\main\java\com\cloud\plug_in_sales\model\Goods.java
